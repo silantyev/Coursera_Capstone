@@ -1,2 +1,8 @@
 # Coursera_Capstone
-Repository for Coursera Applied Data Science Capstone
+It is repository for Coursera Applied Data Science Capstone<br>
+In this Capstone I'm looking for the best place to open new gym or fitness club in Florida<br>
+Here you can find:<br>
+Fitness_Florida.ipynb - Jupiter notebook with whole code<br>
+Report_v2.pdf - Report of this study<br>
+Presentation.pdf - Presentation of this study<br>
+Index.xlsx - Full list of zip codes with gym opening potential index
